@@ -1,0 +1,88 @@
+/* Stile generale */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #f7f9fb;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 40px 20px 30px 20px;
+  border-bottom: 3px solid #e5e5e5;
+}
+
+.logo {
+  width: 160px;
+}
+
+h1 {
+  color: #0b3558;
+  margin-top: 15px;
+  font-size: 2.2rem;
+}
+
+.slogan {
+  color: #0077b6;
+  font-size: 1.1rem;
+  margin-top: 5px;
+}
+
+/* Sezioni */
+section {
+  padding: 40px 25px;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #0b3558;
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  background: #eaf4ff;
+  margin: 8px auto;
+  padding: 10px;
+  border-radius: 8px;
+  width: 80%;
+}
+
+/* Tariffa evidenziata */
+.tarif {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #0077b6;
+  margin-top: 15px;
+}
+
+/* Link */
+a {
+  color: #0077b6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  background-color: #0b3558;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 0.9rem;
+  margin-top: 40px;
+}
